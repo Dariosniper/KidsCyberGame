@@ -1,5 +1,5 @@
 # KidsCyberGame
-Gioco di Carte Cyber è un gioco strategico a turni ispirato al mondo ella cybersecurity , il gioco utilizza un mazzo di carte tematiche che rappresentano attacchi, difese, risorse e abilità speciali.
+Gioco di Carte Cyber è un gioco strategico a turni ispirato al mondo della cybersecurity,Cyber Hygiene  e del cyberbullismo e  il gioco utilizza un mazzo di carte tematiche che rappresentano CyberMostri, CyberHero, Situazioni e Soluzioni.
 
 Obiettivo del gioco
 
