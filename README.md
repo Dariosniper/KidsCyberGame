@@ -21,9 +21,9 @@ Caratteristiche principali
 
 Contenuti della repository
 
-/cards/: file delle carte in formato .jpg
+- /cards/: file delle carte in formato .jpg
 
-/rules/: regolamento ufficiale in formato.pdf
+- Regole : Regole di base del gioco
 
 Requisiti di gioco
 
