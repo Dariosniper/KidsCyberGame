@@ -46,4 +46,4 @@ Apri una Pull Request con la descrizione delle modifiche
 
 Oppure apri un'Issue per segnalare problemi o suggerire migliorie
 
-Autore: Nome Autore Dario Buonocore
+Autore: Dario Buonocore
